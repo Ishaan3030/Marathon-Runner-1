@@ -1,1 +1,2 @@
-# Marathon-Runner-1
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
